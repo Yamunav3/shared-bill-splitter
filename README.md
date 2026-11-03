@@ -390,11 +390,13 @@ pnpm --filter bill-splitter-api cf-typegen
 - Do **not** change the visible tests or `api/test/helpers.ts`. We compare them with the original.
 - We run extra tests after you submit. They test the cases in "Cases You Must Handle" more closely.
 
-## AI Policy
+**AI Tools Used:** ChatGPT and OpenAI Codex.
 
-You can use AI tools. Tell us which ones and where in your answers on the form.
+**How I Used Them:**
+- **ChatGPT:** Used for understanding the project requirements, discussing architectural decisions, clarifying backend logic, reviewing trade-offs, and preparing the project walkthrough.
+- **OpenAI Codex:** Used for coding assistance, implementing and reviewing project changes, and debugging issues.
 
-You must understand every line you submit. We check this with your video and in a live call. "The AI wrote it" is not an answer.
+I reviewed and tested the implementation and worked to understand the code and design decisions so I can explain them during the video and live discussion.
 
 ## How to Submit
 
