@@ -396,7 +396,6 @@ pnpm --filter bill-splitter-api cf-typegen
 - **ChatGPT:** Used for understanding the project requirements, discussing architectural decisions, clarifying backend logic, reviewing trade-offs, and preparing the project walkthrough.
 - **OpenAI Codex:** Used for coding assistance, implementing and reviewing project changes, and debugging issues.
 
-I reviewed and tested the implementation and worked to understand the code and design decisions so I can explain them during the video and live discussion.
 
 ## How to Submit
 
